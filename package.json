@@ -1,6 +1,6 @@
 {
   "name": "uuid-extra",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Uniqueness and Randomness combined",
   "main": "index.js",
   "scripts": {
