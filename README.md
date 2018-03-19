@@ -20,7 +20,7 @@ First extra function which combines the `uuidv1` and `uuidv4` output and uses `M
 ```js
 const uuidex = require('uuid-extra');
 
-console.log(`UUIDEX14: ${uuidex.ex14()}`);
+console.log(`EX14: ${uuidex.ex14()}`);
 ```
 
 ### `v1()`
