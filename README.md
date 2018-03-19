@@ -1,5 +1,6 @@
 # uuid-extra
 [![Build Status](https://travis-ci.org/gggauravgandhi/uuid-extra.svg?branch=master)](https://travis-ci.org/gggauravgandhi/uuid-extra)
+
 Uniqueness and Randomness combined
 
 Using UUID library, combining Uniqueness(uuidv1) and Randomness(uuidv4), trying to get randomly unique solution to generate universally unique identifier. 
