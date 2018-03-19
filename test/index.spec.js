@@ -1,5 +1,4 @@
 // test/index.spec.js
-const assert = require('chai').assert;
 const invariants = require('invariants');
 const uuidex = require('../index.js');
 
