@@ -1,12 +1,23 @@
 {
   "name": "uuid-extra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uniqueness and Randomness combined",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gggauravgandhi/uuid-extra.git"
   },
-  "author": "",
+  "bugs": {
+    "url": "https://github.com/gggauravgandhi/uuid-extra/issues"
+  },
+  "homepage": "https://github.com/gggauravgandhi/uuid-extra#readme",
+  "keywords": [
+    "uuid",
+    "extra",
+    "uniqueness",
+    "randomness"
+  ],
+  "author": "gggauravgandhi",
   "license": "ISC",
   "dependencies": {
     "uuid": "^3.2.1"
