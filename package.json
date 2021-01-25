@@ -1,6 +1,6 @@
 {
   "name": "uuid-extra",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Uniqueness and Randomness combined",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "author": "gggauravgandhi",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^3.2.1"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "invariants": "^1.3.2",
