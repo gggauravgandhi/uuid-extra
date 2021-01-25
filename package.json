@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "invariants": "^1.3.2",
-    "mocha": "^5.0.4"
+    "mocha": "^8.2.1"
   }
 }
